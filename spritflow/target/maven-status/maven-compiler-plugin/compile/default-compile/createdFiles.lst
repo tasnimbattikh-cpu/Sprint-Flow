@@ -1,0 +1,4 @@
+com\sprintflow\models\Admin.class
+com\sprintflow\models\main.class
+com\sprintflow\models\MicroSprint.class
+com\sprintflow\models\Utilisateur.class
